@@ -45,5 +45,5 @@ Preserves most recent ticket information
 
 Notes
 
-Requires an Excel file with a sheet named '2025-01 SunStrong O&M'
+Requires an Excel file as an input and need to modify the columns if strcture changes.
 Expects specific column names and structure
